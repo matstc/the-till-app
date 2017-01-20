@@ -7,7 +7,7 @@ See `till.test.js` and fill out the test declarations. The test for calculating 
 
 # How To Run
 
-Simply run `npm install` at the top-level to install the required modules.
+Simply run `yarn install` at the top-level to install the required modules.
 
 Then run `jest` to run all tests.
 
