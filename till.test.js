@@ -10,7 +10,7 @@ test('looks up the price of 1000 for a laptop', () => {
   // ...
 });
 
-test('it throws an exception if item not found in inventory', () => {
+test('it throws an error if item not found in inventory', () => {
   // ...
 });
 
