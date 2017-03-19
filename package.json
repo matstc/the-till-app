@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^18.1.0"
+    "jest": "^18.1.0",
+    "jest-cli": "^19.0.2"
   },
   "scripts": {
-  "test": "jest"
+    "test": "jest"
   }
 }
