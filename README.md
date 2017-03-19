@@ -11,4 +11,4 @@ Simply run `yarn install` at the top-level to install the required modules.
 
 Then run `jest` to run all tests.
 
-All tests should be made to pass.
+All tests should be filled out and made to pass.
